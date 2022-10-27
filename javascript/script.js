@@ -10,5 +10,5 @@ function color() {
   document.getElementById("submitbtn").style.backgroundColor = "blue";
 }
 function color1() {
-  document.getElementById("submitbtn").style.backgroundColor = "green";
+  document.getElementById("submitbtn").style.backgroundColor = "red";
 }
