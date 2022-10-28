@@ -70,7 +70,7 @@ form button:hover {
 
 form button {
   background-color: rgb(18, 162, 107);
-  border: 1px solid green;
+  border: 1px solid blue;
   font-size: large;
   color: white;
   margin-left: 1.3rem;
@@ -104,7 +104,7 @@ form button {
 
   form button {
     background-color: rgb(18, 162, 18);
-    border: 1px solid green;
+    border: 1px solid blue;
     font-size: large;
     color: white;
     margin-left: 3rem;
