@@ -6,6 +6,7 @@
 body {
   background-image: url('../Safety.jpg');
   font-family: 'Muli', sans-serif;
+  font-color: white;
   background-size: cover;
   background-repeat: no-repeat;
   height: 100vh;
